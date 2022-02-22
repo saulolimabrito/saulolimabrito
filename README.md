@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @saulolimabrito
+- 👀 I’m interested in: continuous learning3
+- 🌱 I’m currently learning: golang
+- 📫 How to reach me: unixsaulo@gmail.com
