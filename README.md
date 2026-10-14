@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @saulolimabrito
 - 👀 I’m interested in: continuous learning mindset
-- 📫 How to reach me: unixsaulo@gmail.com
+- 📫 How to reach me: unixsaulo@gmail.com & https://www.linkedin.com/in/saulo-brito-392762188/
